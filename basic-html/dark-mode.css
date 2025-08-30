@@ -1,0 +1,27 @@
+body {
+  background: #121212;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: rgba(255, 255, 255, 0.87);
+}
+
+a {
+  color: #4da6ff;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #a58cff;
+}
+
+a:hover,
+a:focus {
+  color: #80caff;
+  text-decoration: underline;
+}
