@@ -1,6 +1,18 @@
-body {
+* {
+  box-sizing: border-box;
+}
+
+html {
   background: #121212;
+}
+
+body {
+  background: #181a1b;
   color: rgba(255, 255, 255, 0.7);
+  /* prevent margin collapse by adding vertical padding */
+  padding: 1rem 1rem;
+  /* clear default body 8px margin */
+  margin: 0px;
 }
 
 h1,
@@ -24,4 +36,13 @@ a:hover,
 a:focus {
   color: #80caff;
   text-decoration: underline;
+}
+
+/* Make content centered so it is easier to read in wide screens */
+@media (min-width: 768px) {
+  body {
+    max-width: 72rem;
+    margin-inline: auto;
+    padding-inline: 3rem;
+  }
 }
