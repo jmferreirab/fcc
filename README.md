@@ -4,10 +4,9 @@ A repo to track my progress on fcc assignments.
 
 ## HTML Basics
 
-[!Note]
-
-I have taken the freedom to add dark mode styling since I find it helpful to reduce eye strain.
-The original fcc labs from this section do not touch on custom styling in order to ease the learning curve.
+> [!NOTE]
+> I have taken the freedom to add dark mode styling since I find it helpful to reduce eye strain.
+> The original fcc labs from this section do not touch on custom styling in order to ease the learning curve.
 
 1. Build a [recipe page](basic-html/recipe.html)
 
