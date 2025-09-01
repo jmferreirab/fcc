@@ -4,13 +4,18 @@ A repo to track my progress on fcc assignments.
 
 ## HTML Basics
 
+[!Note]
+
+I have taken the freedom to add dark mode styling since I find it helpful to reduce eye strain.
+The original fcc labs from this section do not touch on custom styling in order to ease the learning curve.
+
 1. Build a [recipe page](basic-html/recipe.html)
 
-   In this lab, you'll review HTML basics by creating a web page of your favorite recipe. You'll create an HTML boilerplate and work with headings, lists, images, and more.
+   A lab to get familiar with HTML boilerplate and work with headings, lists, and images.
 
 2. Build a [Travel agency page](basic-html/travel-agency.html)
 
-   In this lab, you'll review working with HTML fundamentals by creating a web page for a travel agency. You'll work with images, the `figure` element, the `figcaption` element, the anchor element, and more.
+   A lab to practice working with with images, the `figure` element, the `figcaption` element, and the anchor element.
 
 3. Build a [Heart icon](basic-html/heart-icon.html)
 
