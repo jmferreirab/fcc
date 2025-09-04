@@ -1,6 +1,6 @@
 # freecodecamp assignments
 
-A repo to track my progress on fcc assignments.
+A repo to track my progress on FCC assignments.
 
 ## HTML Basics
 
@@ -21,3 +21,7 @@ A repo to track my progress on fcc assignments.
 
    We use the `iframe` element to embed youtube videos, and the semantic `section` element.
    Videos were selected intentionally to make an Unreal Engine learning resources page.
+
+5. Build a [Cat Blog Page](basic-html/cat-blog.html)
+
+   The cat blog page is a self-explanatory guided workshop at FCC. It serves to practice using semantic html elements like `nav`, `header`, `main`, `footer`, and `address`.
