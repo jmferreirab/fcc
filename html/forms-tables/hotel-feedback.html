@@ -31,6 +31,7 @@
             type="text"
             placeholder="Ex. John Doe"
             required
+            size="20"
           />
           <br />
           <label for="email">Email address (required):</label>
@@ -40,7 +41,36 @@
             type="email"
             placeholder="example@email.com"
             required
+            size="20"
           />
+          <br />
+          <label for="age">Age (optional):</label>
+          <input
+            id="age"
+            name="age"
+            type="number"
+            min="3"
+            max="100"
+            size="10"
+          />
+        </fieldset>
+        <fieldset>
+          <legend>Was this your first time at our hotel?</legend>
+          <input type="radio" id="yes-option" name="hotel-stay" />
+          <label for="yes-option">Yes</label>
+          <input type="radio" id="no-option" name="hotel-stay" />
+          <label for="no-option">No</label>
+        </fieldset>
+        <fieldset>
+          <legend>Why did you choose to stay at our hotel? (Check all that apply)</legend>
+          <input type="checkbox" id="ads" name="ads"  value="ads">
+          <label for="ads">Social Media Ads</label>
+          <input type="checkbox" id="recommendation" name="recommendation"  value="recommendation">
+          <label for="recommendation">Personal Recommendation</label>
+          <input type="checkbox" id="location" name="location"  value="location">
+          <label for="location">Location</label>
+          <input type="checkbox" id="reputation" name="reputation"  value="reputation">
+          <label for="reputation">Reputation</label>
         </fieldset>
       </form>
     </main>
