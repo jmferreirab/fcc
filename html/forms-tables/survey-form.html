@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>GenAI Usage - Survey</title>
+    <meta property="og:title" content="GenAI Usage - Survey" />
+    <meta property="og:description" content="A basic survey form on generative AI." />
+    <meta name="color-scheme" content="dark" />
+    <meta name="description" content="A basic survey form on generative AI." />
+    <link rel="stylesheet" href="../../styles/dark-mode.css" />
+    <style>
+      input,
+      textarea {
+        display: block;
+        margin-block: 8px;
+      }
+
+      input[type="radio"] {
+        display: inline;
+        margin-right: 8px;
+      }
+
+      fieldset {
+        margin-bottom: 16px;
+        padding: 12px;
+      }
+
+      legend {
+        font-weight: bold;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1 id="title">Generative AI Usage Survey</h1>
+      <p>
+        A basic survey form on generative AI. Made as part of the
+        FCC curriculum.
+      </p>
+    </header>
+    <main>
+      <section>
+        <fieldset>
+          <legend>User information (optional)</legend>
+          <label for="name">Name: </label
+          ><input id="name" name="name" type="text" />
+          <label for="email">Email: </label
+          ><input id="email" email="email" type="email" />
+          <label for="age">Age: </label
+          ><input
+            id="age"
+            age="age"
+            type="number"
+            min="10"
+            max="100"
+            type="number"
+          />
+        </fieldset>
+        <fieldset>
+          <legend>Preferences</legend>
+          <label for="recommend">Do you recommend using GenAI tools?</label>
+          <input type="radio" name="recommend" id="recommend" /><label
+            >Yes</label
+          >
+          <input type="radio" name="recommend" id="recommend" /><label
+            >No</label
+          >
+          <input type="radio" name="recommend" id="recommend" /><label
+            >Depends on the use</label
+          >
+        </fieldset>
+      </section>
+    </main>
+  </body>
+</html>
