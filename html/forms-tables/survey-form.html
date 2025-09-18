@@ -5,7 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>GenAI Usage - Survey</title>
     <meta property="og:title" content="GenAI Usage - Survey" />
-    <meta property="og:description" content="A basic survey form on generative AI." />
+    <meta
+      property="og:description"
+      content="A basic survey form on generative AI."
+    />
     <meta name="color-scheme" content="dark" />
     <meta name="description" content="A basic survey form on generative AI." />
     <link rel="stylesheet" href="../../styles/dark-mode.css" />
@@ -13,17 +16,17 @@
       input,
       textarea {
         display: block;
-        margin-block: 8px;
+        margin-block: 4px;
       }
 
-      input[type="radio"] {
+      input[type="radio"],
+      input[type="checkbox"] {
         display: inline;
-        margin-right: 8px;
       }
 
       fieldset {
-        margin-bottom: 16px;
-        padding: 12px;
+        margin-bottom: 8px;
+        padding: 6px;
       }
 
       legend {
@@ -34,42 +37,118 @@
   <body>
     <header>
       <h1 id="title">Generative AI Usage Survey</h1>
-      <p>
-        A basic survey form on generative AI. Made as part of the
-        FCC curriculum.
-      </p>
     </header>
     <main>
       <section>
-        <fieldset>
-          <legend>User information (optional)</legend>
-          <label for="name">Name: </label
-          ><input id="name" name="name" type="text" />
-          <label for="email">Email: </label
-          ><input id="email" email="email" type="email" />
-          <label for="age">Age: </label
-          ><input
-            id="age"
-            age="age"
-            type="number"
-            min="10"
-            max="100"
-            type="number"
-          />
-        </fieldset>
-        <fieldset>
-          <legend>Preferences</legend>
-          <label for="recommend">Do you recommend using GenAI tools?</label>
-          <input type="radio" name="recommend" id="recommend" /><label
-            >Yes</label
-          >
-          <input type="radio" name="recommend" id="recommend" /><label
-            >No</label
-          >
-          <input type="radio" name="recommend" id="recommend" /><label
-            >Depends on the use</label
-          >
-        </fieldset>
+        <p id="description">
+          A basic survey form on generative AI. Made as part of the FCC
+          curriculum.
+        </p>
+        <form id="survey-form">
+          <fieldset>
+            <legend>User information (optional)</legend>
+            <label id="name-label" for="name">Name: </label
+            ><input
+              id="name"
+              name="name"
+              type="text"
+              placeholder="Register a name"
+              required
+            />
+            <label id="email-label" for="email">Email: </label
+            ><input
+              id="email"
+              email="email"
+              type="email"
+              placeholder="Register an email"
+              required
+            />
+            <label id="number-label" for="number">Number: </label
+            ><input
+              id="number"
+              type="number"
+              min="10"
+              max="100"
+              type="number"
+              placeholder="?"
+            />
+          </fieldset>
+          <fieldset>
+            <legend>Do you recommend using GenAI tools?</legend>
+            <input
+              type="radio"
+              name="recommend"
+              id="recommend"
+              value="yes"
+            /><label>Yes</label>
+            <input
+              type="radio"
+              name="recommend"
+              id="recommend"
+              value="no"
+            /><label>No</label>
+            <input
+              type="radio"
+              name="recommend"
+              id="recommend"
+              value="exploration-only"
+            /><label>Only as an exploration tool</label>
+          </fieldset>
+          <fieldset>
+            <legend>What is your monthly expense in Gen AI tools?</legend>
+            <input
+              type="radio"
+              name="monthly-expense-bracket"
+              id="radio-zero"
+              value="zero"
+            /><label for="radio-zero">Zero</label>
+            <input
+              type="radio"
+              name="monthly-expense-bracket"
+              id="radio-below-25"
+              value="below-25"
+            /><label for="radio-below-25">Below 25 USD</label>
+            <input
+              type="radio"
+              name="monthly-expense-bracket"
+              id="radio-above-25"
+              value="above-25"
+            /><label for="radio-above-25">Above 25 USD</label>
+          </fieldset>
+          <fieldset>
+            <legend>Products you have used</legend>
+            <input id="product-1" type="checkbox" value="chat-gpt" />
+            <label for="product-1">Chat GPT</label>
+            <input id="product-2" type="checkbox" value="gemini" />
+            <label for="product-2">Gemini</label>
+            <input id="product-3" type="checkbox" value="deepseek" />
+            <label for="product-3">Deepseek</label>
+            <input id="product-4" type="checkbox" value="midjourney" />
+            <label for="product-4">Midjourney</label>
+          </fieldset>
+          <fieldset>
+            <legend>How satisfied are you with GenAI tools?</legend>
+            <select id="dropdown">
+              <option value="10" selected>10 - (Love it)</option>
+              <option value="9">9</option>
+              <option value="8">8</option>
+              <option value="7">7</option>
+              <option value="6">6</option>
+              <option value="5">5</option>
+              <option value="4">4</option>
+              <option value="3">3</option>
+              <option value="2">2</option>
+              <option value="1">1 - (Hate it)</option>
+            </select>
+          </fieldset>
+          <label for="additional-comments">Additional comments</label
+          ><textarea
+            placeholder="Additional comments"
+            cols="50"
+            rows="5"
+          ></textarea>
+          <button id="submit" type="submit">Submit</button>
+        </form>
       </section>
     </main>
   </body>
