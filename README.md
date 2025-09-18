@@ -48,4 +48,4 @@ A repo to track my progress on FCC assignments.
 
 2. Build a [Survey Form](html/forms-tables/survey-form.html)
 
-   A lab to practice using forms and inputs. I chose Gen AI user experience as the topic for this lab. See (user stories)[https://www.freecodecamp.org/learn/full-stack-developer/lab-survey-form/build-a-survey-form] at FCC.
+   A lab to practice using forms and inputs. I chose Gen AI user experience as the topic for this lab. See [user stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-survey-form/build-a-survey-form) at FCC.
