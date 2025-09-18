@@ -45,3 +45,7 @@ A repo to track my progress on FCC assignments.
 ### Forms and Tables
 
 1. Build a [Hotel Feedback Form](html/forms-tables/hotel-feedback.html)
+
+2. Build a [Survey Form](html/forms-tables/survey-form.html)
+
+   A lab to practice using forms and inputs. I chose Gen AI user experience as the topic for this lab. See (user stories)[https://www.freecodecamp.org/learn/full-stack-developer/lab-survey-form/build-a-survey-form] at FCC.
