@@ -4,6 +4,7 @@
 
 html {
   background: #121212;
+  height: 100dvh;
 }
 
 body {
@@ -13,6 +14,7 @@ body {
   padding: 1rem 1rem;
   /* clear default body 8px margin */
   margin: 0px;
+  min-height: 100%; /* Make background flexible, but cover at least full height */
 }
 
 h1,
