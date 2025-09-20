@@ -50,6 +50,6 @@ A repo to track my progress on FCC assignments.
 
    A lab to practice using forms and inputs. I chose Gen AI user experience as the topic for this lab. See [user stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-survey-form/build-a-survey-form) at FCC.
 
-3. Build a [Book Catalog Table](html/forms-tables/survey-form.html)
+3. Build a [Book Catalog Table](html/forms-tables/books-table.html)
 
    A lab to practice using building tables with only HTML with bestselling books. See [user stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-book-catalog-table/build-a-book-catalog-table) at FCC.
