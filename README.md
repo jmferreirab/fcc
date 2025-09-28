@@ -48,8 +48,14 @@ A repo to track my progress on FCC assignments.
 
 2. Build a [Survey Form](html/forms-tables/survey-form.html)
 
-   A lab to practice using forms and inputs. I chose Gen AI user experience as the topic for this lab. See [user stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-survey-form/build-a-survey-form) at FCC.
+   A lab to practice using forms and inputs. I chose Gen AI user experience as the topic for this lab. [User stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-survey-form/build-a-survey-form).
 
 3. Build a [Book Catalog Table](html/forms-tables/books-table.html)
 
-   A lab to practice using building tables with only HTML with bestselling books. See [user stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-book-catalog-table/build-a-book-catalog-table) at FCC.
+   A lab to practice using building tables with only HTML with bestselling books. [User stories] at FCC (https://www.freecodecamp.org/learn/full-stack-developer/lab-book-catalog-table/build-a-book-catalog-table).
+
+### Accessibility
+
+1. Build a [Checkout Page](html/accesibility/checkout-page.html)
+
+   A lab to practice using ARIA-roles and alt attributes. [User stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-checkout-page/build-a-checkout-page).
