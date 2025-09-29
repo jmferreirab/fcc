@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Checkout Page</title>
+    <link rel="stylesheet" href="../styles/dark-mode.css" />
+    <link rel="stylesheet" href="../styles/better-forms.css" />
+  </head>
+  <body>
+    <h1>Checkout</h1>
+    <section>
+      <h2>Your Cart</h2>
+      <div>
+        <img
+          src="https://images.unsplash.com/photo-1483546363825-7ebf25fb7513?q=80&w=300&auto=format&fit=crop"
+          alt="A plain white notebook, with hard cover"
+        />
+        <p>Plain white notebook, with hard cover: $2</p>
+      </div>
+    </section>
+    <section>
+      <h2>Payment Information</h2>
+
+      <form>
+        <fieldset>
+          <label for="card-name"
+            >Card Name: <span aria-hidden="true">*</span></label
+          ><input
+            id="card-name"
+            name="card-name"
+            type="text"
+            aria-describedby="card-name-help"
+            required
+          />
+          <p id="card-name-help">
+            <small>Type the full name registered on the card.</small>
+          </p>
+          <label for="card-number"
+            >Card Number: <span aria-hidden="true">*</span></label
+          ><input
+            id="card-number"
+            name="card-number"
+            type="text"
+            aria-describedby="card-number-help"
+            required
+          />
+
+          <p id="card-number-help">
+            <small
+              >Type your 16-digit card number without spaces or dashes.</small
+            >
+          </p>
+        </fieldset>
+        <fieldset>
+          <label for="card-expiration">Card Expiration Date: </label
+          ><input id="card-expiration" name="card-expiration" type="month" />
+          <p id="cvv-help">
+            <small>Enter the month and year that your card expires.</small>
+          </p>
+          <label for="cvv">CVV: <span aria-hidden="true">*</span></label
+          ><input
+            id="cvv"
+            name="cvv"
+            type="number"
+            maxlength="3"
+            minlength="3"
+            aria-describedby="cvv-help"
+            required
+          />
+          <p id="cvv-help">
+            <small>Type the 3 digit verification code from your card.</small>
+          </p>
+        </fieldset>
+
+        <button>Submit order</button>
+      </form>
+    </section>
+  </body>
+</html>

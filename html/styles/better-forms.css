@@ -1,0 +1,19 @@
+input,
+textarea {
+  display: block;
+  margin-block: 4px;
+}
+
+input[type="radio"],
+input[type="checkbox"] {
+  display: inline;
+}
+
+fieldset {
+  margin-bottom: 8px;
+  padding: 6px;
+}
+
+legend {
+  font-weight: bold;
+}
