@@ -58,4 +58,4 @@ A repo to track my progress on FCC assignments.
 
 1. Build a [Checkout Page](html/accesibility/checkout-page.html)
 
-   A lab to practice using ARIA-roles and alt attributes. [User stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-checkout-page/build-a-checkout-page).
+   A lab to practice using aria and alt attributes. [User stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-checkout-page/build-a-checkout-page).
