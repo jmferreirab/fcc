@@ -54,8 +54,13 @@
         </fieldset>
         <fieldset>
           <label for="card-expiration">Card Expiration Date: </label
-          ><input id="card-expiration" name="card-expiration" type="month" />
-          <p id="cvv-help">
+          ><input
+            id="card-expiration"
+            name="card-expiration"
+            type="month"
+            aria-describedby="card-expiration-help"
+          />
+          <p id="card-expiration">
             <small>Enter the month and year that your card expires.</small>
           </p>
           <label for="cvv">CVV: <span aria-hidden="true">*</span></label
