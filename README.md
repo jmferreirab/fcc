@@ -77,6 +77,6 @@ A repo to track my progress on FCC assignments.
 
    Topics: Alt attributes, accessible lists, and hiding decorative content from screen readers. [User stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-movie-review-page/design-a-movie-review-page)
 
-3. Build a [Build a Multimedia Player](html/accessibility/multimedia-player.html)
+3. Build a [Multimedia Player](html/accessibility/multimedia-player.html)
 
    Topics: accessibility principles for video and audio elements. [User stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-multimedia-player/lab-multimedia-player)
