@@ -65,3 +65,5 @@ A repo to track my progress on FCC assignments.
    A lab to practice semantic HTML, alt attributes, accessible lists, and hiding decorative content from screen readers. [User stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-movie-review-page/design-a-movie-review-page)
 
 3. Build a [Build a Multimedia Player](html/accesibility/multimedia-player.html)
+
+   A lab to practice the application of accessibility principles for video and audio elements. [User stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-multimedia-player/lab-multimedia-player)
