@@ -9,6 +9,8 @@ A repo to track my progress on FCC assignments.
   - [Semantic HTML](#semantic-html)
   - [Forms and Tables](#forms-and-tables)
   - [Accessibility](#accessibility)
+- [CSS](#css)
+  - [CSS Basics](#css-basics)
 
 ## HTML
 
@@ -80,3 +82,11 @@ A repo to track my progress on FCC assignments.
 3. Build a [Multimedia Player](html/accessibility/multimedia-player.html)
 
    Topics: accessibility principles for video and audio elements. [User stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-multimedia-player/lab-multimedia-player)
+
+## CSS
+
+### CSS Basics
+
+1. Design a [business card](css/basic-css/business-card/index.html)
+
+   Topics: Margins, spacing, width, centering content, background and font color. [User stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-business-card/design-a-business-card)
