@@ -27,13 +27,17 @@ A repo to track my progress on FCC assignments.
 
    Topics: Images, the `figure` and `figcaption` elements, and the anchor element.
 
-3. Build a [Heart icon](html/basic-html/heart-icon.html)
+3. Build an [Audio and Video Player](html/basic-html/audio-video-player.html)
+
+   Topics: Audio and video elements. [User stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-html-audio-and-video-player/build-an-html-audio-and-video-player)
+
+4. Build a [Heart icon](html/basic-html/heart-icon.html)
 
    Topics: `path`, `svg`.
 
    We use vector elements to create a heart icon.
 
-4. Build a [video compilation](html/basic-html/video-compilation.html)
+5. Build a [video compilation](html/basic-html/video-compilation.html)
 
    Topics: `iframe`, `section`.
 
