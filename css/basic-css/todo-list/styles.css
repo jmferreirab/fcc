@@ -1,0 +1,54 @@
+body {
+  background: #181a1b;
+  color: rgba(255, 255, 255, 0.7);
+  /* prevent margin collapse by adding vertical padding */
+  padding: 1rem 1rem;
+  /* clear default body 8px margin */
+  margin: 0px auto;
+  min-height: 100%; /* Make background flexible, but cover at least full height */
+  width: 80%;
+  max-width: 500px;
+}
+
+a.sub-item-link {
+  color: #4da6ff;
+  text-decoration: none;
+}
+
+a.sub-item-link:visited {
+  color: #a58cff;
+}
+
+a.sub-item-link:hover {
+  color: #80caff;
+}
+a.sub-item-link:focus {
+  color: #80caff;
+}
+a.sub-item-link:active {
+  color: #80caff;
+}
+
+ul.todo-list{
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul.todo-list > li {
+    background-color: rgb(34, 35, 39);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+ul > li > input[type="checkbox"] {
+  margin-right: 0.5rem;
+}
+
+ul > li:first-child {
+  margin-top: 5px;
+}
+
+li {
+  margin-bottom: 15px;
+}
