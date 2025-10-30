@@ -94,3 +94,7 @@ A repo to track my progress on FCC assignments.
 1. Design a [business card](css/basic-css/business-card/index.html)
 
    Topics: Margins, spacing, width, centering content, background and font color. [User stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-business-card/design-a-business-card)
+
+2. Build a [To-do list](css/basic-css/todo-list/index.html)
+
+   Topics: Stylized lists, stylized links. [User stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-stylized-to-do-list/build-a-stylized-to-do-list)
