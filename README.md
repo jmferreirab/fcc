@@ -98,3 +98,7 @@ A repo to track my progress on FCC assignments.
 2. Build a [To-do list](css/basic-css/todo-list/index.html)
 
    Topics: Stylized lists, stylized links. [User stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-stylized-to-do-list/build-a-stylized-to-do-list)
+
+3. Design a [Blog post card](css/basic-css/blog-post-card/index.html)
+
+   Topics: CSS selectors and classes, pseudo-classes, links, margins, spacing, width, centering content, background and font color. [User stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-blog-post-card/lab-blog-post-card)
