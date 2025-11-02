@@ -55,23 +55,20 @@ h1 {
   text-align: center;
   display: inline-block;
   color: #ffffff;
-}
-
-a {
-  color: #4da6ff;
   text-decoration: none;
 }
 
-a:visited {
+.read-more:visited {
   color: #a58cff;
 }
 
-a:hover {
+.read-more:hover {
+  background: #1e40af;
+  color: lightskyblue;
+}
+.read-more:focus {
   background: #1e40af;
 }
-a:focus {
-  background: #1e40af;
-}
-a:active {
+.read-more:active {
   background: #1e40af;
 }
