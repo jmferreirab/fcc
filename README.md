@@ -105,6 +105,6 @@ A repo to track my progress on FCC assignments.
 
 ### Absolute and relative units
 
-1. Build an [Event Flyer Page]
+1. Build an [Event Flyer Page](css/absolute-and-relative-units/event-flyer/index.html)
 
    Topics: Absolute and relative units, width, height, `calc()`, lists. [User Stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-event-flyer-page/build-an-event-flyer-page)
