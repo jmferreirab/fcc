@@ -1,0 +1,53 @@
+html {
+  background-color: #f0f0f0;
+}
+
+body {
+  background: #fff;
+  padding: 50px 16px;
+  /* clear default body 8px margin and 
+  center block horizontally with margins */
+  margin: 0px auto;
+  width: 80vw;
+  max-width: 500px;
+  /*  cover at least full height */
+  min-height: 100%;
+  min-height: calc(100vh - 100px);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+main {
+  width: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
+
+section {
+  /* Make them sit in same line, and account 
+  for prettier adding new lines to src */
+  width: 100%;
+  display: block;
+  border-style: dotted;
+  margin: 1em auto;
+  box-sizing: border-box;
+}
+
+h1,
+h2 {
+  text-align: center;
+}
+
+hr {
+  width: 95%;
+}
+
+img {
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+  border-bottom: 3px solid black;
+}
+
+li {
+  line-height: 1.5em;
+}

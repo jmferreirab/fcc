@@ -102,3 +102,9 @@ A repo to track my progress on FCC assignments.
 3. Design a [Blog post card](css/basic-css/blog-post-card/index.html)
 
    Topics: CSS selectors and classes, pseudo-classes, links, margins, spacing, width, centering content, background and font color. [User stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-blog-post-card/lab-blog-post-card)
+
+### Absolute and relative units
+
+1. Build an [Event Flyer Page]
+
+   Topics: Absolute and relative units, width, height, `calc()`, lists. [User Stories](https://www.freecodecamp.org/learn/full-stack-developer/lab-event-flyer-page/build-an-event-flyer-page)
