@@ -1,6 +1,6 @@
-# freecodecamp assignments
+# freecodecamp coursework
 
-A repo to track my progress on FCC assignments.
+A repo to track my progress on FCC coursework.
 
 ## Table of Contents
 
@@ -11,6 +11,7 @@ A repo to track my progress on FCC assignments.
   - [Accessibility](#accessibility)
 - [CSS](#css)
   - [CSS Basics](#css-basics)
+  - [Absolute and relative units](#absolute-and-relative-units)
 
 ## HTML
 
