@@ -117,3 +117,4 @@ A repo to track my progress on FCC coursework.
 ### Variables and strings
 
 1. Build a [JavaScript trivia bot](js/variables-and-strings/trivia-bot.js)
+1. Build a [Sentence maker](js/variables-and-strings/sentence-maker.js)
