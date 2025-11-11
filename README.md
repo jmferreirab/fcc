@@ -14,6 +14,7 @@ A repo to track my progress on FCC coursework.
   - [Absolute and relative units](#absolute-and-relative-units)
 - [JS](#js)
   - [Variables and strings](#variables-and-strings)
+  - [Boolean and numbers](#boolean-and-numbers)
 
 ## HTML
 
@@ -118,3 +119,8 @@ A repo to track my progress on FCC coursework.
 
 1. Build a [JavaScript trivia bot](js/variables-and-strings/trivia-bot.js)
 1. Build a [Sentence maker](js/variables-and-strings/sentence-maker.js)
+
+### Boolean and numbers
+
+1. Debug [Type coercion errors](js/boolean-and-numbers/type-coercion-errors.js)
+1. Build a [Fortune teller](js/boolean-and-numbers/fortune-teller.js)
