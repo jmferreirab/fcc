@@ -15,6 +15,7 @@ A repo to track my progress on FCC coursework.
 - [JS](#js)
   - [Variables and strings](#variables-and-strings)
   - [Boolean and numbers](#boolean-and-numbers)
+  - [Functions](#functions)
 
 ## HTML
 
@@ -124,3 +125,8 @@ A repo to track my progress on FCC coursework.
 
 1. Debug [Type coercion errors](js/boolean-and-numbers/type-coercion-errors.js)
 1. Build a [Fortune teller](js/boolean-and-numbers/fortune-teller.js)
+
+### Functions
+
+1. Build a [Boolean check function](js/functions/boolean-check-function.js)
+1. Build an [Email masker](js/functions/email-masker.js)
