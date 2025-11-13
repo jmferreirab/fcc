@@ -130,3 +130,9 @@ A repo to track my progress on FCC coursework.
 
 1. Build a [Boolean check function](js/functions/boolean-check-function.js)
 1. Build an [Email masker](js/functions/email-masker.js)
+1. Build a [Celsius to Fahrenheit converter](js/functions/celsius-to-fahrenheit.js)
+1. Build a [Card counting assistant](js/functions/card-counting-assistant.js)
+
+   Topics: `Object literals`, `Map`, `Switch`, and Conditionals. This solution was made with 3 variants, maps, switch, and object literals.
+
+   See [Map Variant](js/functions/card-counting-assistant-map.js) and [Switch Variant](js/functions/card-counting-assistant-switch.js).
