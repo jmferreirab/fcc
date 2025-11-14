@@ -139,3 +139,4 @@ A repo to track my progress on FCC coursework.
 
 1. Build a [Leap year calculator](js/functions/leap-year-calculator.js)
 1. Implement a [Truncate String Algorithm](js/functions/truncate-string-algorithm.js)
+1. Build a [Confirm the Ending Tool](js/functions/string-ending-check.js)
