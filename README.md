@@ -136,3 +136,6 @@ A repo to track my progress on FCC coursework.
    Topics: `Object literals`, `Map`, `Switch`, and Conditionals. This solution was made with 3 variants, maps, switch, and object literals.
 
    See [Map Variant](js/functions/card-counting-assistant-map.js) and [Switch Variant](js/functions/card-counting-assistant-switch.js).
+
+1. Build a [Leap year calculator](js/functions/leap-year-calculator.js)
+1. Implement a [Truncate String Algorithm](js/functions/truncate-string-algorithm.js)
