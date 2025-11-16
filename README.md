@@ -144,3 +144,4 @@ A repo to track my progress on FCC coursework.
 ### Arrays
 
 1. Build a [Lunch picker program](js/arrays/lunch-picker-program.js)
+1. Build a [Golf score translator](js/arrays/golf-score-translator.js)
