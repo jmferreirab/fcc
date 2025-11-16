@@ -16,6 +16,7 @@ A repo to track my progress on FCC coursework.
   - [Variables and strings](#variables-and-strings)
   - [Boolean and numbers](#boolean-and-numbers)
   - [Functions](#functions)
+  - [Arrays](#arrays)
 
 ## HTML
 
@@ -145,3 +146,4 @@ A repo to track my progress on FCC coursework.
 
 1. Build a [Lunch picker program](js/arrays/lunch-picker-program.js)
 1. Build a [Golf score translator](js/arrays/golf-score-translator.js)
+1. Build a [String inverter](js/arrays/string-inverter.js)
