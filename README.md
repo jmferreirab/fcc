@@ -152,3 +152,6 @@ A repo to track my progress on FCC coursework.
 ### Objects
 
 1. Build a [Quiz game](js/objects/quiz-game.js)
+1. Build a [Record collection](js/objects/record-collection.js)
+
+   Topics: `functions`, `objects`, `arrays`.
