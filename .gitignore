@@ -1,0 +1,11 @@
+# Environment configuration
+.github
+.vscode
+
+# dotenv environment variable files
+.env
+.env.*
+!.env.example
+
+# Dependency directories
+node_modules/
