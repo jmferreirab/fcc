@@ -155,3 +155,5 @@ A repo to track my progress on FCC coursework.
 1. Build a [Record collection](js/objects/record-collection.js)
 
    Topics: `functions`, `objects`, `arrays`.
+
+1. Build a [Cargo manifest validator](js/objects/cargo-manifest-validator.js)
