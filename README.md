@@ -157,3 +157,8 @@ A repo to track my progress on FCC coursework.
    Topics: `functions`, `objects`, `arrays`.
 
 1. Build a [Cargo manifest validator](js/objects/cargo-manifest-validator.js)
+
+### Loops
+
+1. Build a [Sentence Analyzer](js/loops/sentence-analyzer.js)
+1. Build a [Longest Word Finder](js/loops/longest-word-finder.js)
